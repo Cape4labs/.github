@@ -35,7 +35,9 @@ __Our solution:__ Store this data on-chain and encrypted, using Zama fhe. We bui
 
 ## 🟧 Sunflower Wallet
 
-Stacks wallet built for BTCFi.[read more here](https://medium.com/@no__hive/defi-lacks-fine-mobile-ui-ux-whoever-changes-it-wins-71274f07ceac) [check demo here](medium.com/@no__hive/sunflower-wallet-demo-d22dec9283a0])
+Stacks wallet built for BTCFi.
+[read more here](https://medium.com/@no__hive/defi-lacks-fine-mobile-ui-ux-whoever-changes-it-wins-71274f07ceac) 
+[check demo here](medium.com/@no__hive/sunflower-wallet-demo-d22dec9283a0])
   
 ### Sunflower Wallet repositories:
 
