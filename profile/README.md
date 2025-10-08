@@ -1,4 +1,12 @@
+<div align="center">
 
+# We are the team of 4 escapers 
+
+# cape 4 labs 
+
+## Web3 infrastructure builders, privacy-focused. 
+
+  
 ---
 <div align="left">
 
