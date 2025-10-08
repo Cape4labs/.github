@@ -30,7 +30,7 @@ Also you can check the project docs on Gitbook: _currently under maintaince_
 
 ## 🟨 Zauth
 
-__The problem:__ Are the social media connections truly secure? Where data is stored when you cannect your X, Discord or Github to any SocialFi / InfoFi ? 
+__The problem:__ Where is your data really stored when you connect your X, Discord or Github to any SocialFi / InfoFi platform? 
 
 __Our solution:__ Store this data on-chain and encrypted, using Zama fhe. We built widget to make this idea come true.
   
