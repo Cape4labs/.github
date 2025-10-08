@@ -1,10 +1,10 @@
 <div align="center">
 
-# We are the team of 4 escapers 
+## We are the team of 4 escapers 
 
 # cape 4 labs 
 
-## 🕸 Web3 infra with privacy-first decisions. 
+## 🕸 Web3 infra with privacy-first decisions
 
   
 ---
