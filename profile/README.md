@@ -1,12 +1,13 @@
-## Hi there 👋
 
-<!--
+---
+<div align="left">
 
-**Here are some ideas to get you started:**
+## AudataDAO
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+AudataDAO is decentralized infrastructure for collecting telegram audio messages into a solid, user-owned dataset of multilingual live speech. It is built and deployed on Vana Mainnet. 
+01/10/2025 - closed beta - [audata.space](https://audata.space)
+  
+### AudataDAO repositories:
+- [Proof of contribution](https://github.com/Audata-DAO/proof) - a script used for evaluating value of user submitted data.
+- [Data refiner](https://github.com/Audata-DAO/data-refiner) - another script that is run against data considered valuable transforming it into sql queryable format. 
+- [Web UI](https://github.com/Audata-DAO/dlp-ui-audata) - code of the web Dapp where users submit their audio data.
