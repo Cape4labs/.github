@@ -51,7 +51,7 @@ __Stacks wallet built for BTCFi.__
   
 ### 💾 Sunflower Wallet repositories:
 
-- [fhe smart contract](https://github.com/cape4labs/sunflower_wallet_app) - the mobile hot wallet app.
+- [main repo](https://github.com/cape4labs/sunflower_wallet_app) - the mobile hot wallet app.
 - [_coming soon_] - the backend for smart AI yield analytics.
 
 ---
