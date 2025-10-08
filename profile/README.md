@@ -2,7 +2,7 @@
 ---
 <div align="left">
 
-## AudataDAO
+## 🟪 AudataDAO
 
 AudataDAO is decentralized infrastructure for collecting telegram audio messages into a solid, user-owned dataset of multilingual live speech. It is built and deployed on Vana Mainnet. 
 
@@ -20,7 +20,7 @@ Also you can check the project docs on Gitbook: _currently under maintaince_
 ---
 <div align="left">
 
-## Zauth
+## 🟨 Zauth
 
 __The problem:__ Are the social media connections truly secure? Where data is stored when you cannect your X, Discord or Github to any SocialFi / InfoFi ? 
 
@@ -28,6 +28,16 @@ __Our solution:__ Store this data on-chain and encrypted, using Zama fhe. We bui
   
 ### Zauth repositories:
 - [fhe smart contract](https://github.com/cape4labs/zauth_smart_contract_fhe) - on-chain data inscription built with zama fhe. 
-- [frontend widget](https://github.com/cape4labs/zauth_frontend) - the web widget that let use connect wallet, social medias account and then wrrite this connection on-chain. 
+- [frontend widget](https://github.com/cape4labs/zauth_frontend) - the web widget that let use connect wallet, social medias account and then wrrite this connection on-chain.
 
-https://github.com/cape4labs/sunflower_wallet_app
+---
+<div align="left">
+
+## 🟨 Sunflower Wallet
+
+Stacks wallet built for BTCFi.[read more here](https://medium.com/@no__hive/defi-lacks-fine-mobile-ui-ux-whoever-changes-it-wins-71274f07ceac) [check demo here](medium.com/@no__hive/sunflower-wallet-demo-d22dec9283a0])
+  
+### Sunflower Wallet repositories:
+
+- [fhe smart contract](https://github.com/cape4labs/sunflower_wallet_app) - the mobile hot wallet app.
+- [_coming soon_] - the backend for smart AI yield analytics.
