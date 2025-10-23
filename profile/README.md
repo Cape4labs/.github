@@ -20,6 +20,7 @@ __Current status:__ 23/10/2025 - Season 0 is live - [audata.space](https://audat
 - [Proof of contribution](https://github.com/Audata-DAO/proof) - a script used for evaluating value of user submitted data.
 - [Data refiner](https://github.com/Audata-DAO/data-refiner) - another script that is run against data considered valuable transforming it into sql queryable format. 
 - [Web UI](https://github.com/Audata-DAO/dlp-ui-audata) - code of the web Dapp where users submit their audio data.
+- [Backend](https://github.com/cape4labs/audatadao_user_db_backend) - our backend service we use to maintain the users DB, the leaderboard, etc.
 
 __Smart Contracts deployed:__
 
