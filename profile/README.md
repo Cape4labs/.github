@@ -14,7 +14,7 @@
 
 AudataDAO is decentralized infrastructure for collecting telegram audio messages into a solid, user-owned dataset of multilingual live speech. It is built and deployed on Vana Mainnet. 
 
-__Current status:__ 01/10/2025 - closed beta - [audata.space](https://audata.space)
+__Current status:__ 23/10/2025 - Season 0 is live - [audata.space](https://audata.space)
   
 ### 💾 AudataDAO repositories:
 - [Proof of contribution](https://github.com/Audata-DAO/proof) - a script used for evaluating value of user submitted data.
@@ -23,7 +23,7 @@ __Current status:__ 01/10/2025 - closed beta - [audata.space](https://audata.spa
 
 __Smart Contracts deployed:__
 
-Also you can check the project docs on Gitbook: _currently under maintaince_ 
+Also you can check the project docs on Gitbook: [AudataDAO docs](https://audata.gitbook.io/audata-docs)
 
 ---
 <div align="left">
